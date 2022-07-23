@@ -1,0 +1,181 @@
+body {
+  font-family: Roboto, sans-serif;
+}
+
+.list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+/* header */
+.header {
+}
+.header-logo {
+}
+
+.web-logo {
+  color: #2196f3;
+}
+
+.studio-logo {
+  color: black;
+}
+
+.header_nav {
+}
+.header-list {
+}
+.header-link {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1, 33;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+
+.header-link:hover,
+.header-link:hover {
+  color: #2196f3;
+}
+
+.header-tell {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1, 33;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+
+.link-mail {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1, 33;
+  letter-spacing: 0.02em;
+  color: #2196f3;
+}
+
+/* main */
+/* button */
+
+.title-button {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1, 5;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.button-one {
+}
+
+.btn {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1, 19;
+  color: #ffffff;
+}
+/* about */
+.about {
+}
+.about-list {
+}
+
+.about-item {
+}
+
+.about-pre-title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1, 33px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #212121;
+}
+
+.about-title {
+  font-size: 14px;
+  line-height: 1, 71;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+/* whoweare */
+.whoweare {
+}
+.whoweare-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1, 16;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.whoweare-list {
+}
+.whoweare-item {
+}
+
+/* portfolio menu */
+.menu {
+}
+.menu-logo main {
+  background: #2196f3;
+}
+
+/*team*/
+.team-name {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1, 19;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.team-position {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1, 19;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+/* marketing */
+
+.
+
+/* footer */
+
+.title-marketing {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+
+.marketing-pre {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1, 88;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+.studio-logofoot {
+  color: #ffffff;
+}
+
+.map-google {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1, 71;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
