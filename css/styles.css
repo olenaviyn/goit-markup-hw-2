@@ -26,6 +26,12 @@ body {
 
 /* header */
 
+.logo {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+}
+
 .web-logo {
   color: #2196f3;
 }
@@ -37,7 +43,7 @@ body {
 .header-link {
   font-weight: 500;
   font-size: 14px;
-  line-height: 1, 33;
+  line-height: 1.33;
   letter-spacing: 0.02em;
   color: #212121;
 }
@@ -50,7 +56,7 @@ body {
 .header-tell {
   font-weight: 500;
   font-size: 14px;
-  line-height: 1, 33;
+  line-height: 1.33;
   letter-spacing: 0.02em;
   color: #757575;
 }
@@ -58,7 +64,7 @@ body {
 .link-mail {
   font-weight: 500;
   font-size: 14px;
-  line-height: 1, 33;
+  line-height: 1.33;
   letter-spacing: 0.02em;
   color: #757575;
 }
@@ -68,6 +74,16 @@ body {
 }
 
 /* main */
+
+.button-logo {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.6;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
 
 /* body */
 .fon {
@@ -79,7 +95,7 @@ body {
 .title-button {
   font-weight: 900;
   font-size: 44px;
-  line-height: 1, 5;
+  line-height: 1.5;
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -108,7 +124,7 @@ body {
 .about-pre-title {
   font-weight: 700;
   font-size: 14px;
-  line-height: 1, 33px;
+  line-height: 1.33px;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #212121;
@@ -116,7 +132,7 @@ body {
 
 .about-title {
   font-size: 14px;
-  line-height: 1, 71;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: #757575;
 }
@@ -128,7 +144,7 @@ body {
 .whoweare-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1, 16;
+  line-height: 1.16;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
@@ -136,6 +152,15 @@ body {
 
 .menu-logo main {
   background: #2196f3;
+}
+
+.button-logo {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.6;
+  letter-spacing: 0.03em;
+  color: #212121;
 }
 
 /*team*/
@@ -147,7 +172,7 @@ body {
 .team-name {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1, 19;
+  line-height: 1.19;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
@@ -156,7 +181,7 @@ body {
 .team-position {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1, 19;
+  line-height: 1.19;
   text-align: center;
   letter-spacing: 0.03em;
   color: #757575;
@@ -168,6 +193,16 @@ body {
 
 .footmain {
   background-color: #2f303a;
+}
+
+.foot-adress {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.7;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
 }
 
 .title-marketing {
@@ -182,7 +217,7 @@ body {
 .marketing-pre {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1, 88;
+  line-height: 1.88;
   letter-spacing: 0.03em;
   color: #757575;
 }
@@ -192,9 +227,10 @@ body {
 }
 
 .map-google {
+  font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 1, 71;
+  line-height: 1.7;
   letter-spacing: 0.03em;
   color: #ffffff;
 }
